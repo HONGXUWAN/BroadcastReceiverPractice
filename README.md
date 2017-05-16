@@ -1,0 +1,2 @@
+# BroadcastReceiverPractice
+Force offline
